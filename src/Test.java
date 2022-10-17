@@ -4,7 +4,8 @@ public class Test {
 	
 	static 
 	{
-	System.out.println("Static braces");	
+	System.out.println("Static braces");
+	System.out.println("Laxman")	
 	}
 	
 public static class Test1{
