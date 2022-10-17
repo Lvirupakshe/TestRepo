@@ -4,12 +4,8 @@ public class Test {
 	
 	static 
 	{
-<<<<<<< HEAD
-	System.out.println("Static braces"+" "+" adding from atul" );	
-=======
 	System.out.println("Static braces");
 	System.out.println("Laxman")	
->>>>>>> 9a28d8d4221975a721af0da73e7647e49dc831d2
 	}
 	
 public static class Test1{
